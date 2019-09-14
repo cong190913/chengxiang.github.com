@@ -1,0 +1,94 @@
+.body{
+	/*background: url(../images/indexBg2.jpg) no-repeat;*/
+  	background-size: 100% 100%;
+  	z-index: 1;
+    overflow-x: hidden;
+    margin: 0 auto;
+}
+.logo{
+	clear: both;
+	overflow: hidden;
+}
+.logoLeft img{
+	width: 30%;
+}
+.logoRight{
+	text-align: center;
+}
+.bodyCenter{
+	background: url(../images/indexBg3.jpg) no-repeat;
+  	background-size: 100% 100%;
+  	z-index: 1;
+    overflow-x: hidden;
+    margin: 0 auto;
+}
+.centerFont{
+	width: 100%;
+	color: #333;
+	/*background-color:#f5f5f5a6;*/
+}
+.centerTitle{
+	width: 100%;
+	text-align: center;
+	font-size: 30px;
+	padding-top: 20px;
+}
+.centerHeader{
+	width: 92%;
+	font-size: 23px;
+	margin: 5px auto;
+}
+.bodyFooter{
+	width: 100%;
+	margin: 10px auto;
+}
+.footerImg{
+	width: 100%;
+}
+.footerTitle{
+	width: 100%;
+	font-size: 18px;
+	text-align: center;
+}
+.footerText{
+	width: 90%;
+	font-size: 16px;
+	text-indent: 2em;
+	margin: 12px auto;
+}
+.fixFooter{
+	width: 100%;
+	height: 80px;
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	background-color: white;
+	clear: both;
+}
+.fixLef{
+	width: 45%;
+}
+.fixLef table{
+	width: 100%;
+	margin: 20px auto;
+}
+.fixRig{
+	width: 55%;
+	margin-top: 5px;
+}
+.fixRigImg{
+	width: 50%;
+}
+.fixRigImgFont span{
+	font-size: 10px;
+	text-align: center;
+}
+.left{
+	float: left;
+}
+.right{
+	float: right;
+}
+
+
+
