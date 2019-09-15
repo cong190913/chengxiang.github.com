@@ -10,7 +10,7 @@
 	overflow: hidden;
 }
 .logoLeft img{
-	width: 30%;
+	width: 100%;
 }
 .logoRight{
 	text-align: center;
@@ -66,14 +66,14 @@
 	clear: both;
 }
 .fixLef{
-	width: 45%;
+	width: 50%;
 }
 .fixLef table{
 	width: 100%;
 	margin: 20px auto;
 }
 .fixRig{
-	width: 55%;
+	width: 50%;
 	margin-top: 5px;
 }
 .fixRigImg{
